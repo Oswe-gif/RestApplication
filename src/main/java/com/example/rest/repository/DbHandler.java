@@ -1,7 +1,7 @@
 package com.example.rest.repository;
 
-import com.example.rest.controller.BookingDTO;
-import com.example.rest.controller.ClientDTO;
+import com.example.rest.controller.dto.BookingDTO;
+import com.example.rest.controller.dto.ClientDTO;
 
 import java.util.ArrayList;
 import java.util.List;

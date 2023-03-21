@@ -1,4 +1,4 @@
-package com.example.rest.controller;
+package com.example.rest.controller.dto;
 
 import lombok.*;
 @Getter

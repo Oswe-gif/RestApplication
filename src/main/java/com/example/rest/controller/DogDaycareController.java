@@ -1,7 +1,9 @@
 package com.example.rest.controller;
 
-import com.example.rest.data.MySQL;
-import com.example.rest.repository.DbService;
+import com.example.rest.controller.dto.BookingDTO;
+import com.example.rest.controller.dto.ClientDTO;
+import com.example.rest.entity.MySQL;
+import com.example.rest.service.DbService;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
