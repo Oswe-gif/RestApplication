@@ -31,5 +31,5 @@ public class DbService {
     public List<BookingDTO> getClientBookingHistory(String id){
         return handler.ObtainClientBookingHistory(id);
     }
-
+    //pruebaaquibjdwnjedjndejn
 }
